@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+sqlite3
+requests  # For Groq API calls
